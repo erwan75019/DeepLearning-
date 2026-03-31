@@ -116,7 +116,7 @@ python main.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * TensorFlow / Keras
